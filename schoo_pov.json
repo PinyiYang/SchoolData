@@ -1,0 +1,520 @@
+{
+    "name": "Rich school Top 100",
+    "children": [{
+        "name":"Brooklyn",
+        "children":[{
+            "category": "Pre-elementary, Elementary School",
+            "value": 82,
+            "name": "The Maurice Sendak Community School"
+        },{
+            "category": "Pre-elementary, Elementary School",
+            "value": 169,
+            "name": "The Maurice Sendak Community School"
+        }, {
+              "category": "Elementary, Middle School",
+              "value": 198,
+              "name": "P.S. 372 -The Children's School"
+        },{
+            "category": "Elementary School",
+            "value": 567,
+            "name": "P.S. 107 John W. Kimball"
+          },
+          {
+            "category":  "Pre-elementary, Elementary School",
+            "value": 307,
+            "name": "The Maurice Sendak Community School"
+          },{
+              "category":  "Elementary School"
+              "value": 572,
+              "name": "P.S. 107 John W. Kimball"
+          },{
+              "category": "Middle School",
+              "value": 52,
+              "name": "Brooklyn Environmental Exploration School (BEES)"
+          },{
+              "category": "Pre-elementary, Elementary School",
+              "value": 218,
+              "name": "The Maurice Sendak Community School"
+          },{
+              "category": "Pre-elementary, Elementary School",
+              "value": 285,
+              "name": "The Maurice Sendak Community School"
+          },{
+              "category": "Elementary School",
+              "value": 571,
+              "name": "P.S. 107 John W. Kimball"
+            },
+          {
+              "category": "Elementary School",
+              "value": 578,
+              "name": "P.S. 107 John W. Kimball"
+          }]
+    },
+    {
+        "name":"Manhattan",
+        "children":[{
+            "value": 123,
+            "category": "Pre-elementary, Elementary School",
+            "name": "The Peck Slip School"
+        },{
+            "category": "Pre-elementary, Elementary School",
+            "value": 412,
+            "name": "P.S. 89"
+        },{
+            "category": "Elementary School",
+            "value": 161,
+            "name": "The Peck Slip School"
+        },{
+            "category": "Elementary School",
+            "value": 345,
+            "name": "P.S. 77 Lower Lab School"
+          },
+          {
+            "category":  "Elementary School",
+            "value": 359,
+            "name": "P.S. 77 Lower Lab School"
+          },
+          {
+            "category":"Pre-elementary, Elementary School",
+            "value": 425,
+            "name": "P.S. 89"
+          },
+          {
+            "category":"Elementary, Middle School",
+            "value": 234,
+            "name": "M.S. 243 Center School"
+          },
+          
+          {
+            "category": "Pre-elementary, Elementary School",
+            "value": 186,
+            "name": "P.S. 150"
+          },
+          {
+            "category":  "Pre-elementary, Elementary School",
+            "value": 442,
+            "name": "P.S. 89"
+          },
+          {
+            "category": "Elementary School",
+            "value": 92,
+            "name": "P.S. 527 - East Side School for Social Action"
+          },
+          {
+            "category":"Elementary School",
+            "value": 350,
+            "name": "P.S. 77 Lower Lab School"
+          },
+          {
+            "category": "Pre-elementary, Elementary School",
+            "value": 472,
+            "name": "P.S. 89"
+          },
+          {
+            "category": "Elementary School",
+            "value": 358,
+            "name": "P.S. 77 Lower Lab School"
+          },
+          {
+            "category": "Pre-elementary, Elementary School",
+            "value": 261,
+            "name": "East Side Elementary School, PS 267"
+          }, {
+              "category": "Pre-elementary, Elementary School",
+              "value": 187,
+              "name": "P.S. 150"
+            },
+            {
+              "category":  "Elementary School",
+              "value": 348,
+              "name": "P.S. 77 Lower Lab School"
+            },
+            {
+              "category": "Elementary School",
+              "value": 704,
+              "name": "P.S. 234 Independence School"
+            },
+            {
+              "category": "Pre-elementary, Elementary School",
+              "value": 320,
+              "name": "East Side Elementary School, PS 267"
+            },
+            {
+              "category": "Pre-elementary, Elementary School",
+              "value": 401,
+              "name": "East Side Elementary School, PS 267"
+            },
+            {
+              "category":  "Pre-elementary, Elementary School",
+              "value": 85,
+              "name": "The River School"
+            },
+            {
+              "category":"Elementary School",
+              "value": 220,
+              "name": "P.S. 452"
+            },
+            {
+              "category": "Elementary, Middle, High School",
+              "value": 32,
+              "name": "New York Center for Autism Charter School"
+            },
+            {
+              "category":"Pre-elementary, Elementary School",
+              "value": 365,
+              "name": "East Side Elementary School, PS 267"
+            },
+            {
+              "category":"Elementary School",
+              "value": 231,
+              "name": "P.S. 527 - East Side School for Social Action"
+            },
+            {
+              "category":"Elementary, Middle School",
+              "value": 229,
+              "name": "M.S. 243 Center School"
+            },
+            
+            {
+              "category": "Elementary, Middle, High School",
+              "value": 32,
+              "name": "New York Center for Autism Charter School"
+            },
+            {
+              "category":"Elementary, Middle, High School",
+              "value": 32,
+              "name": "New York Center for Autism Charter School"
+            },
+            {
+              "category": "Pre-elementary, Elementary School",
+              "value": 184,
+              "name": "P.S. 150"
+            },
+            {
+              "category":  "Elementary School",
+              "value": 157,
+              "name": "P.S. 527 - East Side School for Social Action"
+            },
+            {
+              "category": "Pre-elementary, Elementary School",
+              "value": 377,
+              "name": "The Peck Slip School"
+            },
+            {
+              "category": "Elementary, Middle, High School",
+              "value": 191,
+              "name": "Special Music School"
+            }, {
+                "category": "Elementary, Middle School",
+                "value": 230,
+                "name": "M.S. 243 Center School"
+              },
+              {
+                "category": "Elementary, Middle School",
+                "value": 235,
+                "name": "M.S. 243 Center School"
+              },
+              {
+                "category": "Pre-elementary, Middle, High School",
+                "value": 47,
+                "name": "Hospital Schools"
+              },
+              {
+                "category":"Elementary, Middle, High School",
+                "value": 32,
+                "name": "New York Center for Autism Charter School"
+              },
+              {
+                "category": "Pre-elementary, Elementary School",
+                "value": 721,
+                "name": "P.S. 041 Greenwich Village"
+              },
+              {
+                "category": "Pre-elementary, Elementary School",
+                "value": 184,
+                "name": "P.S. 150"
+              },
+              {
+                "category": "Elementary, Middle School",
+                "value": 236,
+                "name": "M.S. 243 Center School"
+              },{
+                  "category":"Pre-elementary, Elementary School",
+                  "value": 362,
+                  "name": "Spruce Street School"
+                },
+                {
+                  "category": "Pre-elementary, Elementary School",
+                  "value": 757,
+                  "name": "P.S. 041 Greenwich Village"
+                },
+                {
+                  "category":  "Pre-elementary, Elementary School",
+                  "value": 699,
+                  "name": "P.S. 041 Greenwich Village"
+                },
+                {
+                  "category":  "Middle School",
+                  "value": 443,
+                  "name": "East Side Middle School"
+                },
+                {
+                  "category": "Pre-elementary, Elementary School",
+                  "value": 184,
+                  "name": "P.S. 150"
+                },
+                {
+                  "category":"Elementary School",
+                  "value": 319,
+                  "name": "P.S. 452"
+                },
+                {
+                  "category":"Elementary, Middle, High School",
+                  "value": 62,
+                  "name": "Home Instruction"
+                },
+                {
+                  "category":  "Elementary School",
+                  "value": 286,
+                  "name": "P.S. 452"
+                },{
+                    "category": "Elementary, Middle, High School",
+                    "value": 33,
+                    "name": "New York Center for Autism Charter School"
+                  },
+                  
+                  {
+                    "category":"Elementary School",
+                    "value": 683,
+                    "name": "P.S. 234 Independence School"
+                  },
+                  {
+                    "category": "Elementary School",
+                    "value": 126,
+                    "name": "Success Academy Union Square (Manhattan 1)"
+                  },
+                  {
+                    "category": "Pre-elementary, Elementary School",
+                    "value": 104,
+                    "name": "The River School"
+                  },
+                  {
+                    "category":  "Elementary, Middle, High School",
+                    "value": 65,
+                    "name": "Hospital Schools"
+                  },
+                  {
+                    "category": "Elementary School",
+                    "value": 729,
+                    "name": "P.S. 234 Independence School"
+                  },
+                  {
+                    "category":"Pre-elementary, Elementary School",
+                    "value": 279,
+                    "name": "The Peck Slip School"
+                  },
+                  {
+                    "category":"Elementary, Middle, High School",
+                    "value": 68,
+                    "name": "Home Instruction"
+                  },
+                  {
+                    "category": "Elementary, Middle, High School",
+                    "value": 231,
+                    "name": "Special Music School"
+                  },
+                  {
+                    "category": "Pre-elementary, Elementary School",
+                    "value": 567,
+                    "name": "P.S. 183 Robert L. Stevenson"
+                  },
+                  {
+                    "category": "Pre-elementary, Elementary School",
+                    "value": 430,
+                    "name": "Spruce Street School"
+                  },{
+                      "category": "Pre-elementary, Elementary School",
+                      "value": 791,
+                      "name": "P.S. 041 Greenwich Village"
+                    },{
+                        "category": "Middle School",
+                        "value": 386,
+                        "name": "M.S. 255 Salk School of Science"
+                      },
+                      {
+                        "category": "Elementary School",
+                        "value": 398,
+                        "name": "East Side Elementary School, PS 267"
+                      },
+                      {
+                        "category": "Pre-elementary, Elementary School",
+                        "value": 441,
+                        "name": "The Peck Slip School"
+                      },
+                      {
+                        "category":"Middle School",
+                        "value": 374,
+                        "name": "M.S. 255 Salk School of Science"
+                      },
+                      {
+                        "category": "Middle School",
+                        "value": 390,
+                        "name": "M.S. 255 Salk School of Science"
+                      },
+                      {
+                        "category": "Pre-elementary, Elementary School",
+                        "value": 187,
+                        "name": "The River School"
+                      }, {
+                          "category": "Middle School",
+                          "value": 441,
+                          "name": "East Side Middle School"
+                        },
+                        {
+                          "category": "Middle School",
+                          "value": 365,
+                          "name": "M.S. 255 Salk School of Science"
+                        }, {
+                            "category": "Elementary School",
+                            "value": 785,
+                            "name": "P.S. 234 Independence School"
+                          },
+                          {
+                            "category": "Elementary, Middle School",
+                            "value": 551,
+                            "name": "The Anderson School"
+                          },
+                          {
+                            "category": "Elementary, Middle School",
+                            "value": 537,
+                            "name": "The Anderson School"
+                          },{
+                              "category": "Elementary, Middle, High School",
+                              "value": 88,
+                              "name": "Hospital Schools"
+                            },
+                            {
+                              "category": "Elementary School",
+                              "value": 555,
+                              "name": "P.S. 183 Robert L. Stevenson"
+                            },
+                            {
+                              "category": "Elementary, Middle, High School",
+                              "value": 82,
+                              "name": "Home Instruction"
+                            },
+                            {
+                              "category":"Pre-elementary, Elementary School",
+                              "value": 152,
+                              "name": "The River School"
+                            }, {
+                                "category":  "Elementary School",
+                                "value": 751,
+                                "name": "P.S. 006 Lillie D. Blake"
+                              },
+                              {
+                                "category": "Pre-elementary, Elementary School",
+                                "value": 683,
+                                "name": "P.S. 006 Lillie D. Blake"
+                              },
+                              {
+                                "category": "Elementary School",
+                                "value": 325,
+                                "name": "P.S. 452"
+                              }, {
+                                  "category": "Elementary, Middle, High School",
+                                  "value": 78,
+                                  "name": "Hospital Schools"
+                                }, {
+                                    "category":"Elementary School",
+                                    "value": 700,
+                                    "name": "P.S. 006 Lillie D. Blake"
+                                  }]
+        },
+        {
+            "name":"Queens",
+            "children":[
+                {
+                  "category":"Pre-elementary, Elementary School",
+                  "value": 203,
+                  "name": "The Academy for Excellence through the Arts"
+                }, {
+                    "category": "Pre-elementary, Elementary School",
+                    "value": 209,
+                    "name": "The Academy for Excellence through the Arts"
+                  },{
+                      "category": "Pre-elementary, Elementary School",
+                      "value": 196,
+                      "name": "The Academy for Excellence through the Arts"
+                    },
+                   
+                    {
+                      "category": "Elementary School",
+                      "value": 229,
+                      "name": "P.S. 098 The Douglaston School"
+                    }, {
+                        "category":  "Elementary School",
+                        "value": 205,
+                        "name": "P.S. 098 The Douglaston School"
+                      },
+                      {
+                        "category": "Elementary, Middle, High School",
+                        "value": 84,
+                        "name": "The Riverview School"
+                      },
+                     
+                      
+                        "category": "Elementary School",
+                        "value": 221,
+                        "name": "P.S. 098 The Douglaston School"
+                      },
+                      {
+                        "category": "Elementary School",
+                        "value": 200,
+                        "name": "P.S. 098 The Douglaston School"
+                      }]
+        },
+        {
+            "name": "Staten Island",
+            "children": [ {
+                "category":"Pre-elementary, Elementary School",
+                "value": 87,
+                "name": "Naples Street Elementary School"
+              },
+            "category": "Elementary School",
+            "value": 214,
+            "name": "P.S. 005 Huguenot"
+          },
+          {
+            "category":  "Elementary School",
+            "value": 256,
+            "name": "P.S. 005 Huguenot"
+          }]
+              
+              
+        }
+    
+    ]
+}
+        
+        
+        
+       
+        
+        
+        
+
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  {
+ 
+  
+ 
+]
