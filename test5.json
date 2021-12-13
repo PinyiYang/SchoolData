@@ -1,0 +1,40 @@
+{
+    "name": "School in NYC",
+    "children": [{
+        "name": "Brooklyn",
+        "children": [{
+            "name": "The Maurice Sendak Community School",
+            "category":  "Pre-elementary, Elementary School",
+            "value": "82"
+        }]
+    }, {
+        "name": "Manhattan",
+        "children": [{
+            "name": "The Peck Slip School",
+            "category": "Pre-elementary, Elementary School",
+            "value": "123"
+        }, {
+            "name": "P.S. 89",
+            "category": "Pre-elementary, Elementary School",
+            "value": "412"
+        }, {
+            "name": "The Peck Slip School",
+            "category":  "Elementary School",
+            "value": "161"
+        }]
+    }, {
+        "name": "Queens",
+        "children": [{
+            "name": "The Academy for Excellence through the Arts",
+            "category":"Pre-elementary, Elementary School",
+            "value": "196"
+        }]
+    }, {
+        "name": "Staten Island",
+        "children": [{
+            "name": "The Blind Side ",
+            "category": "Biography",
+            "value": "255950375"
+        }]
+    }]
+}
