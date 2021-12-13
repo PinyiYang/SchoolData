@@ -3,16 +3,16 @@
     "children": [{
             "name": "Brooklyn",
             "children": [{
-                "name": "No.1",
-                "category": "Elementary School",
+                "name":  "Elementary School",
+                "category":"No.1",
                 "value": "260"
             }]
         },
  	{
        	    "name": "Manhaton",
             "children": [{
-                    "name": "No.2",
-                    "category": "Elementary School",
+                    "name":"Elementary School" ,
+                    "category": "No.2",
                     "value": "252"
                 }]
         }
