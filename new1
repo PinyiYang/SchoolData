@@ -1,0 +1,226 @@
+"Ethnicty","School.type","location","n"
+"Asian","Elementary School","Bronx",1250
+"Asian","Elementary School","Brooklyn",11110
+"Asian","Elementary School","Manhattan",650
+"Asian","Elementary School","Queens",7597
+"Asian","Elementary School","Staten Island",169
+"Asian","Elementary, High School","Manhattan",3
+"Asian","Elementary, Middle School","Bronx",1480
+"Asian","Elementary, Middle School","Brooklyn",1548
+"Asian","Elementary, Middle School","Manhattan",938
+"Asian","Elementary, Middle School","Queens",2753
+"Asian","Elementary, Middle, High School","Bronx",41
+"Asian","Elementary, Middle, High School","Brooklyn",500
+"Asian","Elementary, Middle, High School","Manhattan",756
+"Asian","Elementary, Middle, High School","Queens",667
+"Asian","Elementary, Middle, High School","Staten Island",29
+"Asian","High School","Bronx",3664
+"Asian","High School","Brooklyn",14284
+"Asian","High School","Manhattan",8215
+"Asian","High School","Queens",20099
+"Asian","High School","Staten Island",2007
+"Asian","Middle School","Bronx",1343
+"Asian","Middle School","Brooklyn",9147
+"Asian","Middle School","Manhattan",2112
+"Asian","Middle School","Queens",15109
+"Asian","Middle School","Staten Island",1036
+"Asian","Middle, High School","Bronx",480
+"Asian","Middle, High School","Brooklyn",893
+"Asian","Middle, High School","Manhattan",686
+"Asian","Middle, High School","Queens",3275
+"Asian","Middle, High School","Staten Island",31
+"Asian","Pre-elementary, Elementary School","Bronx",1925
+"Asian","Pre-elementary, Elementary School","Brooklyn",10585
+"Asian","Pre-elementary, Elementary School","Manhattan",5330
+"Asian","Pre-elementary, Elementary School","Queens",27735
+"Asian","Pre-elementary, Elementary School","Staten Island",2364
+"Asian","Pre-elementary, Middle School","Bronx",380
+"Asian","Pre-elementary, Middle School","Brooklyn",4116
+"Asian","Pre-elementary, Middle School","Manhattan",1621
+"Asian","Pre-elementary, Middle School","Queens",4409
+"Asian","Pre-elementary, Middle School","Staten Island",329
+"Asian","Pre-elementary, Middle, High School","Bronx",56
+"Asian","Pre-elementary, Middle, High School","Brooklyn",15
+"Asian","Pre-elementary, Middle, High School","Manhattan",42
+"Asian","Pre-elementary, Middle, High School","Queens",136
+"Asian","Pre-elementary, Middle, High School","Staten Island",135
+"Black","Elementary School","Bronx",6862
+"Black","Elementary School","Brooklyn",5547
+"Black","Elementary School","Manhattan",1410
+"Black","Elementary School","Queens",2114
+"Black","Elementary School","Staten Island",350
+"Black","Elementary, High School","Manhattan",47
+"Black","Elementary, Middle School","Bronx",5345
+"Black","Elementary, Middle School","Brooklyn",13027
+"Black","Elementary, Middle School","Manhattan",3402
+"Black","Elementary, Middle School","Queens",3029
+"Black","Elementary, Middle, High School","Bronx",1733
+"Black","Elementary, Middle, High School","Brooklyn",11499
+"Black","Elementary, Middle, High School","Manhattan",6489
+"Black","Elementary, Middle, High School","Queens",1014
+"Black","Elementary, Middle, High School","Staten Island",510
+"Black","High School","Bronx",12693
+"Black","High School","Brooklyn",27919
+"Black","High School","Manhattan",11313
+"Black","High School","Queens",14099
+"Black","High School","Staten Island",2374
+"Black","Middle School","Bronx",8706
+"Black","Middle School","Brooklyn",12392
+"Black","Middle School","Manhattan",1860
+"Black","Middle School","Queens",5974
+"Black","Middle School","Staten Island",1385
+"Black","Middle, High School","Bronx",4710
+"Black","Middle, High School","Brooklyn",6907
+"Black","Middle, High School","Manhattan",4469
+"Black","Middle, High School","Queens",4170
+"Black","Middle, High School","Staten Island",90
+"Black","Pre-elementary, Elementary School","Bronx",15804
+"Black","Pre-elementary, Elementary School","Brooklyn",28969
+"Black","Pre-elementary, Elementary School","Manhattan",5098
+"Black","Pre-elementary, Elementary School","Queens",13313
+"Black","Pre-elementary, Elementary School","Staten Island",2955
+"Black","Pre-elementary, Middle School","Bronx",2546
+"Black","Pre-elementary, Middle School","Brooklyn",8653
+"Black","Pre-elementary, Middle School","Manhattan",3785
+"Black","Pre-elementary, Middle School","Queens",5864
+"Black","Pre-elementary, Middle School","Staten Island",358
+"Black","Pre-elementary, Middle, High School","Bronx",926
+"Black","Pre-elementary, Middle, High School","Brooklyn",153
+"Black","Pre-elementary, Middle, High School","Manhattan",1172
+"Black","Pre-elementary, Middle, High School","Queens",295
+"Black","Pre-elementary, Middle, High School","Staten Island",337
+"Hispanic","Elementary School","Bronx",18836
+"Hispanic","Elementary School","Brooklyn",8106
+"Hispanic","Elementary School","Manhattan",3380
+"Hispanic","Elementary School","Queens",17515
+"Hispanic","Elementary School","Staten Island",1029
+"Hispanic","Elementary, High School","Manhattan",107
+"Hispanic","Elementary, Middle School","Bronx",12305
+"Hispanic","Elementary, Middle School","Brooklyn",6310
+"Hispanic","Elementary, Middle School","Manhattan",5077
+"Hispanic","Elementary, Middle School","Queens",5292
+"Hispanic","Elementary, Middle, High School","Bronx",2824
+"Hispanic","Elementary, Middle, High School","Brooklyn",3224
+"Hispanic","Elementary, Middle, High School","Manhattan",6579
+"Hispanic","Elementary, Middle, High School","Queens",1279
+"Hispanic","Elementary, Middle, High School","Staten Island",468
+"Hispanic","High School","Bronx",27116
+"Hispanic","High School","Brooklyn",21104
+"Hispanic","High School","Manhattan",24754
+"Hispanic","High School","Queens",28814
+"Hispanic","High School","Staten Island",4586
+"Hispanic","Middle School","Bronx",18376
+"Hispanic","Middle School","Brooklyn",12616
+"Hispanic","Middle School","Manhattan",5309
+"Hispanic","Middle School","Queens",18615
+"Hispanic","Middle School","Staten Island",3335
+"Hispanic","Middle, High School","Bronx",12343
+"Hispanic","Middle, High School","Brooklyn",3943
+"Hispanic","Middle, High School","Manhattan",5567
+"Hispanic","Middle, High School","Queens",3222
+"Hispanic","Middle, High School","Staten Island",158
+"Hispanic","Pre-elementary, Elementary School","Bronx",35714
+"Hispanic","Pre-elementary, Elementary School","Brooklyn",26005
+"Hispanic","Pre-elementary, Elementary School","Manhattan",15229
+"Hispanic","Pre-elementary, Elementary School","Queens",26426
+"Hispanic","Pre-elementary, Elementary School","Staten Island",7177
+"Hispanic","Pre-elementary, Middle School","Bronx",7370
+"Hispanic","Pre-elementary, Middle School","Brooklyn",7341
+"Hispanic","Pre-elementary, Middle School","Manhattan",7467
+"Hispanic","Pre-elementary, Middle School","Queens",7255
+"Hispanic","Pre-elementary, Middle School","Staten Island",725
+"Hispanic","Pre-elementary, Middle, High School","Bronx",1334
+"Hispanic","Pre-elementary, Middle, High School","Brooklyn",126
+"Hispanic","Pre-elementary, Middle, High School","Manhattan",1566
+"Hispanic","Pre-elementary, Middle, High School","Queens",508
+"Hispanic","Pre-elementary, Middle, High School","Staten Island",432
+"Others","Elementary School","Bronx",458
+"Others","Elementary School","Brooklyn",587
+"Others","Elementary School","Manhattan",399
+"Others","Elementary School","Queens",587
+"Others","Elementary School","Staten Island",48
+"Others","Elementary, High School","Manhattan",3
+"Others","Elementary, Middle School","Bronx",291
+"Others","Elementary, Middle School","Brooklyn",661
+"Others","Elementary, Middle School","Manhattan",424
+"Others","Elementary, Middle School","Queens",467
+"Others","Elementary, Middle, High School","Bronx",67
+"Others","Elementary, Middle, High School","Brooklyn",328
+"Others","Elementary, Middle, High School","Manhattan",381
+"Others","Elementary, Middle, High School","Queens",100
+"Others","Elementary, Middle, High School","Staten Island",21
+"Others","High School","Bronx",834
+"Others","High School","Brooklyn",1666
+"Others","High School","Manhattan",1774
+"Others","High School","Queens",2397
+"Others","High School","Staten Island",327
+"Others","Middle School","Bronx",364
+"Others","Middle School","Brooklyn",668
+"Others","Middle School","Manhattan",438
+"Others","Middle School","Queens",1069
+"Others","Middle School","Staten Island",170
+"Others","Middle, High School","Bronx",215
+"Others","Middle, High School","Brooklyn",348
+"Others","Middle, High School","Manhattan",414
+"Others","Middle, High School","Queens",533
+"Others","Middle, High School","Staten Island",9
+"Others","Pre-elementary, Elementary School","Bronx",727
+"Others","Pre-elementary, Elementary School","Brooklyn",1966
+"Others","Pre-elementary, Elementary School","Manhattan",1408
+"Others","Pre-elementary, Elementary School","Queens",3238
+"Others","Pre-elementary, Elementary School","Staten Island",628
+"Others","Pre-elementary, Middle School","Bronx",141
+"Others","Pre-elementary, Middle School","Brooklyn",373
+"Others","Pre-elementary, Middle School","Manhattan",464
+"Others","Pre-elementary, Middle School","Queens",653
+"Others","Pre-elementary, Middle School","Staten Island",75
+"Others","Pre-elementary, Middle, High School","Bronx",27
+"Others","Pre-elementary, Middle, High School","Brooklyn",2
+"Others","Pre-elementary, Middle, High School","Manhattan",58
+"Others","Pre-elementary, Middle, High School","Queens",13
+"Others","Pre-elementary, Middle, High School","Staten Island",60
+"White","Elementary School","Bronx",1660
+"White","Elementary School","Brooklyn",7168
+"White","Elementary School","Manhattan",2657
+"White","Elementary School","Queens",1389
+"White","Elementary School","Staten Island",792
+"White","Elementary, High School","Manhattan",5
+"White","Elementary, Middle School","Bronx",1891
+"White","Elementary, Middle School","Brooklyn",3459
+"White","Elementary, Middle School","Manhattan",2036
+"White","Elementary, Middle School","Queens",4073
+"White","Elementary, Middle, High School","Bronx",87
+"White","Elementary, Middle, High School","Brooklyn",736
+"White","Elementary, Middle, High School","Manhattan",1140
+"White","Elementary, Middle, High School","Queens",695
+"White","Elementary, Middle, High School","Staten Island",229
+"White","High School","Bronx",2373
+"White","High School","Brooklyn",11814
+"White","High School","Manhattan",6593
+"White","High School","Queens",8477
+"White","High School","Staten Island",8197
+"White","Middle School","Bronx",850
+"White","Middle School","Brooklyn",8383
+"White","Middle School","Manhattan",3017
+"White","Middle School","Queens",4172
+"White","Middle School","Staten Island",6111
+"White","Middle, High School","Bronx",665
+"White","Middle, High School","Brooklyn",1713
+"White","Middle, High School","Manhattan",1752
+"White","Middle, High School","Queens",2344
+"White","Middle, High School","Staten Island",188
+"White","Pre-elementary, Elementary School","Bronx",1513
+"White","Pre-elementary, Elementary School","Brooklyn",15933
+"White","Pre-elementary, Elementary School","Manhattan",9013
+"White","Pre-elementary, Elementary School","Queens",10160
+"White","Pre-elementary, Elementary School","Staten Island",11397
+"White","Pre-elementary, Middle School","Bronx",420
+"White","Pre-elementary, Middle School","Brooklyn",4333
+"White","Pre-elementary, Middle School","Manhattan",1708
+"White","Pre-elementary, Middle School","Queens",5302
+"White","Pre-elementary, Middle School","Staten Island",927
+"White","Pre-elementary, Middle, High School","Bronx",121
+"White","Pre-elementary, Middle, High School","Brooklyn",54
+"White","Pre-elementary, Middle, High School","Manhattan",81
+"White","Pre-elementary, Middle, High School","Queens",123
+"White","Pre-elementary, Middle, High School","Staten Island",738
