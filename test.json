@@ -1,18 +1,18 @@
 {
     "name": "Video Game Sales Data Top 100",
     "children": [{
-            "name": "Bronx",
+            "name": "Asian",
             "children": [{
-                "name": "Asian",
-                "category": "Elementary School",
+                "name": "Elementary School",
+                "category": "Brooklyn",
                 "value": "260"
             }]
         },
  	{
-       	    "name": "Brooklyn",
+       	    "name": "Asian",
             "children": [{
-                    "name": "Asin",
-                    "category": "Elementary School",
+                    "name": "Elementary School",
+                    "category": "Manhaton",
                     "value": "252"
                 }]
         }
