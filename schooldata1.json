@@ -1,0 +1,1352 @@
+[
+  {
+    "key": "Asian",
+    "subregion": "Elementary School",
+    "region": "Bronx",
+    "value": 1250
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary School",
+    "region": "Brooklyn",
+    "value": 11110
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary School",
+    "region": "Manhattan",
+    "value": 650
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary School",
+    "region": "Queens",
+    "value": 7597
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary School",
+    "region": "Staten Island",
+    "value": 169
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, High School",
+    "region": "Manhattan",
+    "value": 3
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle School",
+    "region": "Bronx",
+    "value": 1480
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 1548
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle School",
+    "region": "Manhattan",
+    "value": 938
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle School",
+    "region": "Queens",
+    "value": 2753
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 41
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 500
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 756
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Queens",
+    "value": 667
+  },
+  {
+    "key": "Asian",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 29
+  },
+  {
+    "key": "Asian",
+    "subregion": "High School",
+    "region": "Bronx",
+    "value": 3664
+  },
+  {
+    "key": "Asian",
+    "subregion": "High School",
+    "region": "Brooklyn",
+    "value": 14284
+  },
+  {
+    "key": "Asian",
+    "subregion": "High School",
+    "region": "Manhattan",
+    "value": 8215
+  },
+  {
+    "key": "Asian",
+    "subregion": "High School",
+    "region": "Queens",
+    "value": 20099
+  },
+  {
+    "key": "Asian",
+    "subregion": "High School",
+    "region": "Staten Island",
+    "value": 2007
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle School",
+    "region": "Bronx",
+    "value": 1343
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle School",
+    "region": "Brooklyn",
+    "value": 9147
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle School",
+    "region": "Manhattan",
+    "value": 2112
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle School",
+    "region": "Queens",
+    "value": 15109
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle School",
+    "region": "Staten Island",
+    "value": 1036
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle, High School",
+    "region": "Bronx",
+    "value": 480
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle, High School",
+    "region": "Brooklyn",
+    "value": 893
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle, High School",
+    "region": "Manhattan",
+    "value": 686
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle, High School",
+    "region": "Queens",
+    "value": 3275
+  },
+  {
+    "key": "Asian",
+    "subregion": "Middle, High School",
+    "region": "Staten Island",
+    "value": 31
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Bronx",
+    "value": 1925
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Brooklyn",
+    "value": 10585
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Manhattan",
+    "value": 5330
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Queens",
+    "value": 27735
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Staten Island",
+    "value": 2364
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Bronx",
+    "value": 380
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 4116
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Manhattan",
+    "value": 1621
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Queens",
+    "value": 4409
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Staten Island",
+    "value": 329
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 56
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 15
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 42
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Queens",
+    "value": 136
+  },
+  {
+    "key": "Asian",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 135
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary School",
+    "region": "Bronx",
+    "value": 6862
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary School",
+    "region": "Brooklyn",
+    "value": 5547
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary School",
+    "region": "Manhattan",
+    "value": 1410
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary School",
+    "region": "Queens",
+    "value": 2114
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary School",
+    "region": "Staten Island",
+    "value": 350
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, High School",
+    "region": "Manhattan",
+    "value": 47
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle School",
+    "region": "Bronx",
+    "value": 5345
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 13027
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle School",
+    "region": "Manhattan",
+    "value": 3402
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle School",
+    "region": "Queens",
+    "value": 3029
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 1733
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 11499
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 6489
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Queens",
+    "value": 1014
+  },
+  {
+    "key": "Black",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 510
+  },
+  {
+    "key": "Black",
+    "subregion": "High School",
+    "region": "Bronx",
+    "value": 12693
+  },
+  {
+    "key": "Black",
+    "subregion": "High School",
+    "region": "Brooklyn",
+    "value": 27919
+  },
+  {
+    "key": "Black",
+    "subregion": "High School",
+    "region": "Manhattan",
+    "value": 11313
+  },
+  {
+    "key": "Black",
+    "subregion": "High School",
+    "region": "Queens",
+    "value": 14099
+  },
+  {
+    "key": "Black",
+    "subregion": "High School",
+    "region": "Staten Island",
+    "value": 2374
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle School",
+    "region": "Bronx",
+    "value": 8706
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle School",
+    "region": "Brooklyn",
+    "value": 12392
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle School",
+    "region": "Manhattan",
+    "value": 1860
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle School",
+    "region": "Queens",
+    "value": 5974
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle School",
+    "region": "Staten Island",
+    "value": 1385
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle, High School",
+    "region": "Bronx",
+    "value": 4710
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle, High School",
+    "region": "Brooklyn",
+    "value": 6907
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle, High School",
+    "region": "Manhattan",
+    "value": 4469
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle, High School",
+    "region": "Queens",
+    "value": 4170
+  },
+  {
+    "key": "Black",
+    "subregion": "Middle, High School",
+    "region": "Staten Island",
+    "value": 90
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Bronx",
+    "value": 15804
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Brooklyn",
+    "value": 28969
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Manhattan",
+    "value": 5098
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Queens",
+    "value": 13313
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Staten Island",
+    "value": 2955
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Bronx",
+    "value": 2546
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 8653
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Manhattan",
+    "value": 3785
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Queens",
+    "value": 5864
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Staten Island",
+    "value": 358
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 926
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 153
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 1172
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Queens",
+    "value": 295
+  },
+  {
+    "key": "Black",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 337
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary School",
+    "region": "Bronx",
+    "value": 18836
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary School",
+    "region": "Brooklyn",
+    "value": 8106
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary School",
+    "region": "Manhattan",
+    "value": 3380
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary School",
+    "region": "Queens",
+    "value": 17515
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary School",
+    "region": "Staten Island",
+    "value": 1029
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, High School",
+    "region": "Manhattan",
+    "value": 107
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle School",
+    "region": "Bronx",
+    "value": 12305
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 6310
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle School",
+    "region": "Manhattan",
+    "value": 5077
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle School",
+    "region": "Queens",
+    "value": 5292
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 2824
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 3224
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 6579
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Queens",
+    "value": 1279
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 468
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "High School",
+    "region": "Bronx",
+    "value": 27116
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "High School",
+    "region": "Brooklyn",
+    "value": 21104
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "High School",
+    "region": "Manhattan",
+    "value": 24754
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "High School",
+    "region": "Queens",
+    "value": 28814
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "High School",
+    "region": "Staten Island",
+    "value": 4586
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle School",
+    "region": "Bronx",
+    "value": 18376
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle School",
+    "region": "Brooklyn",
+    "value": 12616
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle School",
+    "region": "Manhattan",
+    "value": 5309
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle School",
+    "region": "Queens",
+    "value": 18615
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle School",
+    "region": "Staten Island",
+    "value": 3335
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle, High School",
+    "region": "Bronx",
+    "value": 12343
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle, High School",
+    "region": "Brooklyn",
+    "value": 3943
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle, High School",
+    "region": "Manhattan",
+    "value": 5567
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle, High School",
+    "region": "Queens",
+    "value": 3222
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Middle, High School",
+    "region": "Staten Island",
+    "value": 158
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Bronx",
+    "value": 35714
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Brooklyn",
+    "value": 26005
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Manhattan",
+    "value": 15229
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Queens",
+    "value": 26426
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Staten Island",
+    "value": 7177
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Bronx",
+    "value": 7370
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 7341
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Manhattan",
+    "value": 7467
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Queens",
+    "value": 7255
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Staten Island",
+    "value": 725
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 1334
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 126
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 1566
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Queens",
+    "value": 508
+  },
+  {
+    "key": "Hispanic",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 432
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary School",
+    "region": "Bronx",
+    "value": 458
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary School",
+    "region": "Brooklyn",
+    "value": 587
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary School",
+    "region": "Manhattan",
+    "value": 399
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary School",
+    "region": "Queens",
+    "value": 587
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary School",
+    "region": "Staten Island",
+    "value": 48
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, High School",
+    "region": "Manhattan",
+    "value": 3
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle School",
+    "region": "Bronx",
+    "value": 291
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 661
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle School",
+    "region": "Manhattan",
+    "value": 424
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle School",
+    "region": "Queens",
+    "value": 467
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 67
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 328
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 381
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Queens",
+    "value": 100
+  },
+  {
+    "key": "Others",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 21
+  },
+  {
+    "key": "Others",
+    "subregion": "High School",
+    "region": "Bronx",
+    "value": 834
+  },
+  {
+    "key": "Others",
+    "subregion": "High School",
+    "region": "Brooklyn",
+    "value": 1666
+  },
+  {
+    "key": "Others",
+    "subregion": "High School",
+    "region": "Manhattan",
+    "value": 1774
+  },
+  {
+    "key": "Others",
+    "subregion": "High School",
+    "region": "Queens",
+    "value": 2397
+  },
+  {
+    "key": "Others",
+    "subregion": "High School",
+    "region": "Staten Island",
+    "value": 327
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle School",
+    "region": "Bronx",
+    "value": 364
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle School",
+    "region": "Brooklyn",
+    "value": 668
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle School",
+    "region": "Manhattan",
+    "value": 438
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle School",
+    "region": "Queens",
+    "value": 1069
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle School",
+    "region": "Staten Island",
+    "value": 170
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle, High School",
+    "region": "Bronx",
+    "value": 215
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle, High School",
+    "region": "Brooklyn",
+    "value": 348
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle, High School",
+    "region": "Manhattan",
+    "value": 414
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle, High School",
+    "region": "Queens",
+    "value": 533
+  },
+  {
+    "key": "Others",
+    "subregion": "Middle, High School",
+    "region": "Staten Island",
+    "value": 9
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Bronx",
+    "value": 727
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Brooklyn",
+    "value": 1966
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Manhattan",
+    "value": 1408
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Queens",
+    "value": 3238
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Staten Island",
+    "value": 628
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Bronx",
+    "value": 141
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 373
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Manhattan",
+    "value": 464
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Queens",
+    "value": 653
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Staten Island",
+    "value": 75
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 27
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 2
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 58
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Queens",
+    "value": 13
+  },
+  {
+    "key": "Others",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 60
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary School",
+    "region": "Bronx",
+    "value": 1660
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary School",
+    "region": "Brooklyn",
+    "value": 7168
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary School",
+    "region": "Manhattan",
+    "value": 2657
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary School",
+    "region": "Queens",
+    "value": 1389
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary School",
+    "region": "Staten Island",
+    "value": 792
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, High School",
+    "region": "Manhattan",
+    "value": 5
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle School",
+    "region": "Bronx",
+    "value": 1891
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 3459
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle School",
+    "region": "Manhattan",
+    "value": 2036
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle School",
+    "region": "Queens",
+    "value": 4073
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 87
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 736
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 1140
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Queens",
+    "value": 695
+  },
+  {
+    "key": "White",
+    "subregion": "Elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 229
+  },
+  {
+    "key": "White",
+    "subregion": "High School",
+    "region": "Bronx",
+    "value": 2373
+  },
+  {
+    "key": "White",
+    "subregion": "High School",
+    "region": "Brooklyn",
+    "value": 11814
+  },
+  {
+    "key": "White",
+    "subregion": "High School",
+    "region": "Manhattan",
+    "value": 6593
+  },
+  {
+    "key": "White",
+    "subregion": "High School",
+    "region": "Queens",
+    "value": 8477
+  },
+  {
+    "key": "White",
+    "subregion": "High School",
+    "region": "Staten Island",
+    "value": 8197
+  },
+  {
+    "key": "White",
+    "subregion": "Middle School",
+    "region": "Bronx",
+    "value": 850
+  },
+  {
+    "key": "White",
+    "subregion": "Middle School",
+    "region": "Brooklyn",
+    "value": 8383
+  },
+  {
+    "key": "White",
+    "subregion": "Middle School",
+    "region": "Manhattan",
+    "value": 3017
+  },
+  {
+    "key": "White",
+    "subregion": "Middle School",
+    "region": "Queens",
+    "value": 4172
+  },
+  {
+    "key": "White",
+    "subregion": "Middle School",
+    "region": "Staten Island",
+    "value": 6111
+  },
+  {
+    "key": "White",
+    "subregion": "Middle, High School",
+    "region": "Bronx",
+    "value": 665
+  },
+  {
+    "key": "White",
+    "subregion": "Middle, High School",
+    "region": "Brooklyn",
+    "value": 1713
+  },
+  {
+    "key": "White",
+    "subregion": "Middle, High School",
+    "region": "Manhattan",
+    "value": 1752
+  },
+  {
+    "key": "White",
+    "subregion": "Middle, High School",
+    "region": "Queens",
+    "value": 2344
+  },
+  {
+    "key": "White",
+    "subregion": "Middle, High School",
+    "region": "Staten Island",
+    "value": 188
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Bronx",
+    "value": 1513
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Brooklyn",
+    "value": 15933
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Manhattan",
+    "value": 9013
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Queens",
+    "value": 10160
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Elementary School",
+    "region": "Staten Island",
+    "value": 11397
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Bronx",
+    "value": 420
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Brooklyn",
+    "value": 4333
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Manhattan",
+    "value": 1708
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Queens",
+    "value": 5302
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle School",
+    "region": "Staten Island",
+    "value": 927
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Bronx",
+    "value": 121
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Brooklyn",
+    "value": 54
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Manhattan",
+    "value": 81
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Queens",
+    "value": 123
+  },
+  {
+    "key": "White",
+    "subregion": "Pre-elementary, Middle, High School",
+    "region": "Staten Island",
+    "value": 738
+  }
+]
