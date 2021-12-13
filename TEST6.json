@@ -1,40 +1,414 @@
 {
-    "name": "School in NYC",
+    "name": "Top 100 NYC School with lowest Poverty",
     "children": [{
-        "name": "Brooklyn",
-        "children": [{
-            "name": "The Maurice Sendak Community School",
-            "category":  "Pre-elementary, Elementary School",
-            "value": "82"
-        }]
-    }, {
         "name": "Manhattan",
         "children": [{
+            "name": "P.S. 77 Lower Lab School",
+            "category": "Elementary School",
+            "value": "358"
+        }, {
+            "name": "P.S. 150 ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "187"
+        }, {
+            "name": "M.S. 243 Center School",
+            "category": "Elementary, Middle School",
+            "value": "235"
+        }, {
+            "name": "New York Center for Autism Charter School ",
+            "category": "Elementary, Middle, High School",
+            "value": "33"
+        }, {
+            "name": "M.S. 255 Salk School of Science ",
+            "category": "Middle School",
+            "value": "386"
+        }, {
+            "name": "East Side Elementary School, PS 267",
+            "category": "Elementary School",
+            "value": "398"
+        }, {
             "name": "The Peck Slip School",
             "category": "Pre-elementary, Elementary School",
-            "value": "123"
+            "value": "441"
+        }, {
+            "name": "The Anderson School ",
+            "category": "Elementary, Middle School",
+            "value": " 537"
+        }, {
+            "name": "Home Instruction",
+            "category": "Elementary, Middle, High School",
+            "value": "65"
+        }, {
+            "name": "P.S. 059 Beekman Hill International",
+            "category": "Pre-elementary, Elementary School",
+            "value": "614"
+        }, {
+            "name": "Harvey Milk High School ",
+            "category": "High School",
+            "value": "64"
+        }, {
+            "name": "Hospital Schools",
+            "category": "Elementary, Middle, High School",
+            "value": "78"
+        }, {
+            "name": "P.S. 041 Greenwich Village ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "694"
+        }, {
+            "name": "P.S. 527 - East Side School for Social Action ",
+            "category": "Elementary School",
+            "value": "387"
+        }, {
+            "name": "P.S. 040 Augustus Saint-Gaudens",
+            "category": "Pre-elementary, Elementary School",
+            "value": "673"
+        }, {
+            "name": "P.S. 234 Independence School",
+            "category": "Elementary School",
+            "value": "642"
+        }, {
+            "name": "Special Music School",
+            "category": "Elementary, Middle, High School",
+            "value": "314"
+        }, {
+            "name": "P.S. 183 Robert L. Stevenson",
+            "category": "Pre-elementary, Elementary School",
+            "value": "588"
+        }, {
+            "name": "P.S. 290 Manhattan New School ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "631"
+        }, {
+            "name": "Spruce Street School",
+            "category": "Pre-elementary, Middle School",
+            "value": "539"
+        }, {
+            "name": "Muscota",
+            "category": "Elementary School",
+            "value": "292"
+        }, {
+            "name": "The River School",
+            "category": "Pre-elementary, Elementary School",
+            "value": " 272"
+        }, {
+            "name": "Ballet Tech, NYC Public School for Dance",
+            "category": "Elementary, Middle School",
+            "value": "141"
+        }, {
+            "name": "P.S. 452 ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "336"
+        }, {
+            "name": "The East Village Community School",
+            "category": "Pre-elementary, Elementary School",
+            "value": "318,"
+        }, {
+            "name": "P.S. 006 Lillie D. Blake ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "694"
+        }, {
+            "name": "P.S. 212 Midtown West ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "366"
+        }, {
+            "name": "M.S. 260 Clinton School Writers & Artists ",
+            "category": "Middle, High School",
+            "value": "604"
+        }, {
+            "name": "Academy for Social Action ",
+            "category": "High School",
+            "value": "93"
+        }, {
+            "name": "Central Park East I",
+            "category": "Pre-elementary, Elementary School",
+            "value": "196"
         }, {
             "name": "P.S. 89",
             "category": "Pre-elementary, Elementary School",
-            "value": "412"
+            "value": "433"
         }, {
-            "name": "The Peck Slip School",
-            "category":  "Elementary School",
-            "value": "161"
+            "name": "P.S. 199 Jessie Isador Straus ",
+            "category": "Elementary School",
+            "value": "848"
+        }, {
+            "name": "Technology, Arts, and Sciences Studio",
+            "category": "Middle School",
+            "value": "106"
+        }, {
+            "name": "Urban Academy Laboratory High School ",
+            "category": "High School",
+            "value": "160"
+        }, {
+            "name": "P.S. 158 Bayard Taylor",
+            "category": "Pre-elementary, Elementary School",
+            "value": "793"
+        }, {
+            "name": "P.S. 087 William Sherman ",
+            "category": "Pre-elementary, Elementary School",
+            "value": " 877"
+        }, {
+            "name": "Coalition School for Social Change ",
+            "category": "High School",
+            "value": "121"
+        }, {
+            "name": "Battery Park City School ",
+            "category": "Elementary, Middle School",
+            "value": "827"
+        }, {
+            "name": "Ella Baker School",
+            "category": "Pre-elementary, Middle School",
+            "value": "320"
+        }, {
+            "name": "Global Technology Preparatory",
+            "category": "Middle School",
+            "value": "125"
+        }, {
+            "name": "M.S. M245 The Computer School",
+            "category": "Middle School",
+            "value": "400"
+        }, {
+            "name": "Eleanor Roosevelt High School ",
+            "category": "High School",
+            "value": "541"
+        }, {
+            "name": "Lafayette Academy ",
+            "category": "Middle School",
+            "value": "138"
+        }, {
+            "name": "New Design Middle School",
+            "category": "Middle School",
+            "value": "130"
+        }, {
+            "name": "Hamilton Heights School ",
+            "category": "lementary School",
+            "value": "171"
+        }, {
+            "name": "The 47 American Sign Language & English Lower School",
+            "category": "Pre-elementary, Middle School",
+            "value": "197"
+        }, {
+            "name": "STEM Institute of Manhattan",
+            "category": "Elementary School",
+            "value": "134"
+        }, {
+            "name": "The Alain L. Locke Magnet School for Environmental",
+            "category": "Elementary School",
+            "value": "127"
+        },
+        }, {
+            "name": "Institute for Collaborative Education ",
+            "category": "Middle, High School",
+            "value": "492"
         }]
     }, {
-        "name": "Queens",
+        "name": "Drama",
         "children": [{
-            "name": "The Academy for Excellence through the Arts",
-            "category":"Pre-elementary, Elementary School",
-            "value": "196"
+            "name": "Titanic ",
+            "category": "Drama",
+            "value": "658672302"
+        }, {
+            "name": "The Sixth Sense ",
+            "category": "Drama",
+            "value": "293501675"
+        }, {
+            "name": "I Am Legend ",
+            "category": "Drama",
+            "value": "256386216"
         }]
     }, {
-        "name": "Staten Island",
+        "name": "Adventure",
+        "children": [{
+            "name": "Shrek 2",
+            "category": "Adventure",
+            "value": "436471036"
+        }, {
+            "name": "The Hunger Games: Catching Fire ",
+            "category": "Adventure",
+            "value": "424645577"
+        }, {
+            "name": "The Lion King ",
+            "category": "Adventure",
+            "value": "422783777"
+        }, {
+            "name": "Toy Story 3",
+            "category": "Adventure",
+            "value": "414984497"
+        }, {
+            "name": "The Hunger Games ",
+            "category": "Adventure",
+            "value": "407999255"
+        }, {
+            "name": "Frozen ",
+            "category": "Adventure",
+            "value": "400736600"
+        }, {
+            "name": "Finding Nemo ",
+            "category": "Adventure",
+            "value": "380838870"
+        }, {
+            "name": "The Jungle Book ",
+            "category": "Adventure",
+            "value": "362645141"
+        }, {
+            "name": "Jurassic Park ",
+            "category": "Adventure",
+            "value": "356784000"
+        }, {
+            "name": "Inside Out ",
+            "category": "Adventure",
+            "value": "356454367"
+        }, {
+            "name": "The Hunger Games: Mockingjay - Part 1",
+            "category": "Adventure",
+            "value": "337103873"
+        }, {
+            "name": "Alice in Wonderland ",
+            "category": "Adventure",
+            "value": "334185206"
+        }, {
+            "name": "Shrek the Third ",
+            "category": "Adventure",
+            "value": "320706665"
+        }, {
+            "name": "Harry Potter and the Sorcerer's Stone ",
+            "category": "Adventure",
+            "value": "317557891"
+        }, {
+            "name": "The Hobbit: An Unexpected Journey ",
+            "category": "Adventure",
+            "value": "303001229"
+        }, {
+            "name": "Harry Potter and the Half-Blood Prince ",
+            "category": "Adventure",
+            "value": "301956980"
+        }, {
+            "name": "The Twilight Saga: Eclipse ",
+            "category": "Adventure",
+            "value": "300523113"
+        }, {
+            "name": "The Twilight Saga: New Moon ",
+            "category": "Adventure",
+            "value": "296623634"
+        }, {
+            "name": "Up ",
+            "category": "Adventure",
+            "value": "292979556"
+        }, {
+            "name": "The Twilight Saga: Breaking Dawn - Part 2",
+            "category": "Adventure",
+            "value": "292298923"
+        }, {
+            "name": "The Twilight Saga: Breaking Dawn - Part 2",
+            "category": "Adventure",
+            "value": "292298923"
+        }, {
+            "name": "Harry Potter and the Order of the Phoenix ",
+            "category": "Adventure",
+            "value": "292000866"
+        }, {
+            "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",
+            "category": "Adventure",
+            "value": "291709845"
+        }, {
+            "name": "Harry Potter and the Goblet of Fire ",
+            "category": "Adventure",
+            "value": "289994397"
+        }, {
+            "name": "Monsters, Inc. ",
+            "category": "Adventure",
+            "value": "289907418"
+        }, {
+            "name": "The Hunger Games: Mockingjay - Part 2",
+            "category": "Adventure",
+            "value": "281666058"
+        }, {
+            "name": "Gravity ",
+            "category": "Adventure",
+            "value": "274084951"
+        }, {
+            "name": "Monsters University ",
+            "category": "Adventure",
+            "value": "268488329"
+        }, {
+            "name": "Shrek ",
+            "category": "Adventure",
+            "value": "267652016"
+        }, {
+            "name": "Harry Potter and the Chamber of Secrets ",
+            "category": "Adventure",
+            "value": "261970615"
+        }, {
+            "name": "Jaws ",
+            "category": "Adventure",
+            "value": "260000000"
+        }, {
+            "name": "The Hobbit: The Desolation of Smaug ",
+            "category": "Adventure",
+            "value": "258355354"
+        }, {
+            "name": "The Hobbit: The Battle of the Five Armies ",
+            "category": "Adventure",
+            "value": "255108370"
+        }, {
+            "name": "Men in Black ",
+            "category": "Adventure",
+            "value": "250147615"
+        }]
+    }, {
+        "name": "Family",
+        "children": [{
+            "name": "E.T. the Extra-Terrestrial ",
+            "category": "Family",
+            "value": "434949459"
+        }]
+    }, {
+        "name": "Animation",
+        "children": [{
+            "name": "Despicable Me 2",
+            "category": "Animation",
+            "value": "368049635"
+        }, {
+            "name": "The Secret Life of Pets ",
+            "category": "Animation",
+            "value": "323505540"
+        }, {
+            "name": "Despicable Me ",
+            "category": "Animation",
+            "value": "251501645"
+        }]
+    }, {
+        "name": "Comedy",
+        "children": [{
+            "name": "Forrest Gump ",
+            "category": "Comedy",
+            "value": "329691196"
+        }, {
+            "name": "Home Alone ",
+            "category": "Comedy",
+            "value": "285761243"
+        }, {
+            "name": "Meet the Fockers ",
+            "category": "Comedy",
+            "value": "279167575"
+        }, {
+            "name": "The Hangover ",
+            "category": "Comedy",
+            "value": "277313371"
+        }, {
+            "name": "How the Grinch Stole Christmas ",
+            "category": "Comedy",
+            "value": "260031035"
+        }, {
+            "name": "The Hangover Part II ",
+            "category": "Comedy",
+            "value": "254455986"
+        }]
+    }, {
+        "name": "Biography",
         "children": [{
             "name": "The Blind Side ",
             "category": "Biography",
-            "value": "25"
+            "value": "255950375"
         }]
     }]
 }
