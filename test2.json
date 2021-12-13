@@ -1,0 +1,33 @@
+{
+    "name": "Rich school Top 100",
+    "children": [{
+            "name": "Brooklyn",
+            "children": [{
+                "name":"The Maurice Sendak Community School",
+                "category": "Pre-elementary, Elementary School",
+                "value": "82"
+            },
+            {
+                "name": "The Maurice Sendak Community School"
+                "category": "Pre-elementary, Elementary School",
+                "value": "169"
+            }]
+        },
+ 	{
+       	    "name": "Manhattan",
+            "children": [{
+                    "name": "The Peck Slip School",
+                    "category": "Pre-elementary, Elementary School",
+                    "value": "123"
+                }]
+        },
+    {
+            "name":  "Staten Island",
+            "children": [{
+                    "name": "Naples Street Elementary School",
+                    "category": "Pre-elementary, Elementary School",
+                    "value": "87"
+         }]
+        }
+    ]
+}
