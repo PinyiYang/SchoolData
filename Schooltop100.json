@@ -1,0 +1,419 @@
+{
+    "name": "Top 100 NYC School with lowest Poverty",
+    "children": [{
+        "name": "Manhattan",
+        "children": [{
+            "name": "P.S. 77 Lower Lab School",
+            "category": "Elementary School",
+            "value": "358"
+        }, {
+            "name": "P.S. 150 ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "187"
+        }, {
+            "name": "M.S. 243 Center School",
+            "category": "Elementary, Middle School",
+            "value": "235"
+        }, {
+            "name": "New York Center for Autism Charter School ",
+            "category": "Elementary, Middle, High School",
+            "value": "33"
+        }, {
+            "name": "M.S. 255 Salk School of Science ",
+            "category": "Middle School",
+            "value": "386"
+        }, {
+            "name": "East Side Elementary School, PS 267",
+            "category": "Elementary School",
+            "value": "398"
+        }, {
+            "name": "The Peck Slip School",
+            "category": "Pre-elementary, Elementary School",
+            "value": "441"
+        }, {
+            "name": "The Anderson School ",
+            "category": "Elementary, Middle School",
+            "value": " 537"
+        }, {
+            "name": "Home Instruction",
+            "category": "Elementary, Middle, High School",
+            "value": "65"
+        }, {
+            "name": "P.S. 059 Beekman Hill International",
+            "category": "Pre-elementary, Elementary School",
+            "value": "614"
+        }, {
+            "name": "Harvey Milk High School ",
+            "category": "High School",
+            "value": "64"
+        }, {
+            "name": "Hospital Schools",
+            "category": "Elementary, Middle, High School",
+            "value": "78"
+        }, {
+            "name": "P.S. 041 Greenwich Village ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "694"
+        }, {
+            "name": "P.S. 527 - East Side School for Social Action ",
+            "category": "Elementary School",
+            "value": "387"
+        }, {
+            "name": "P.S. 040 Augustus Saint-Gaudens",
+            "category": "Pre-elementary, Elementary School",
+            "value": "673"
+        }, {
+            "name": "P.S. 234 Independence School",
+            "category": "Elementary School",
+            "value": "642"
+        }, {
+            "name": "Special Music School",
+            "category": "Elementary, Middle, High School",
+            "value": "314"
+        }, {
+            "name": "P.S. 183 Robert L. Stevenson",
+            "category": "Pre-elementary, Elementary School",
+            "value": "588"
+        }, {
+            "name": "P.S. 290 Manhattan New School ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "631"
+        }, {
+            "name": "Spruce Street School",
+            "category": "Pre-elementary, Middle School",
+            "value": "539"
+        }, {
+            "name": "Muscota",
+            "category": "Elementary School",
+            "value": "292"
+        }, {
+            "name": "The River School",
+            "category": "Pre-elementary, Elementary School",
+            "value": " 272"
+        }, {
+            "name": "Ballet Tech, NYC Public School for Dance",
+            "category": "Elementary, Middle School",
+            "value": "141"
+        }, {
+            "name": "P.S. 452 ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "336"
+        }, {
+            "name": "The East Village Community School",
+            "category": "Pre-elementary, Elementary School",
+            "value": "318,"
+        }, {
+            "name": "P.S. 006 Lillie D. Blake ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "694"
+        }, {
+            "name": "P.S. 212 Midtown West ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "366"
+        }, {
+            "name": "M.S. 260 Clinton School Writers & Artists ",
+            "category": "Middle, High School",
+            "value": "604"
+        }, {
+            "name": "Academy for Social Action ",
+            "category": "High School",
+            "value": "93"
+        }, {
+            "name": "Central Park East I",
+            "category": "Pre-elementary, Elementary School",
+            "value": "196"
+        }, {
+            "name": "P.S. 89",
+            "category": "Pre-elementary, Elementary School",
+            "value": "433"
+        }, {
+            "name": "P.S. 199 Jessie Isador Straus ",
+            "category": "Elementary School",
+            "value": "848"
+        }, {
+            "name": "Technology, Arts, and Sciences Studio",
+            "category": "Middle School",
+            "value": "106"
+        }, {
+            "name": "Urban Academy Laboratory High School ",
+            "category": "High School",
+            "value": "160"
+        }, {
+            "name": "P.S. 158 Bayard Taylor",
+            "category": "Pre-elementary, Elementary School",
+            "value": "793"
+        }, {
+            "name": "P.S. 087 William Sherman ",
+            "category": "Pre-elementary, Elementary School",
+            "value": " 877"
+        }, {
+            "name": "Coalition School for Social Change ",
+            "category": "High School",
+            "value": "121"
+        }, {
+            "name": "Battery Park City School ",
+            "category": "Elementary, Middle School",
+            "value": "827"
+        }, {
+            "name": "Ella Baker School",
+            "category": "Pre-elementary, Middle School",
+            "value": "320"
+        }, {
+            "name": "Global Technology Preparatory",
+            "category": "Middle School",
+            "value": "125"
+        }, {
+            "name": "M.S. M245 The Computer School",
+            "category": "Middle School",
+            "value": "400"
+        }, {
+            "name": "Eleanor Roosevelt High School ",
+            "category": "High School",
+            "value": "541"
+        }, {
+            "name": "Lafayette Academy ",
+            "category": "Middle School",
+            "value": "138"
+        }, {
+            "name": "New Design Middle School",
+            "category": "Middle School",
+            "value": "130"
+        }, {
+            "name": "Hamilton Heights School ",
+            "category": "lementary School",
+            "value": "171"
+        }, {
+            "name": "The 47 American Sign Language & English Lower School",
+            "category": "Pre-elementary, Middle School",
+            "value": "197"
+        }, {
+            "name": "STEM Institute of Manhattan",
+            "category": "Elementary School",
+            "value": "134"
+        }, {
+            "name": "The Alain L. Locke Magnet School for Environmental",
+            "category": "Elementary School",
+            "value": "127"
+        }, {
+            "name": "M.S. 224 Manhattan East School for Arts & Academic",
+            "category": "Middle School",
+            "value": "172"
+        }, {
+            "name": "M.S. 250 West Side Collaborative Middle School",
+            "category": "Middle School",
+            "value": "178"
+        }, {
+            "name": "Harbor Heights",
+            "category": "Middle School",
+            "value": "129"
+        }, {
+            "name": "P.S. 166 The Richard Rodgers School of The Arts an",
+            "category": "Elementary School",
+            "value": "648"
+        }, {
+            "name": "P.S. 009 Sarah Anderson",
+            "category": "Pre-elementary, Elementary School",
+            "value": "619"
+        }, {
+            "name": "P.S. 333 Manhattan School for Children",
+            "category": "Elementary, Middle School",
+            "value": "753"
+        }, {
+            "name": "P.S. 333 Manhattan School for Children",
+            "category": "Elementary, Middle School",
+            "value": "753"
+        }, {
+            "name": "Neighborhood School",
+            "category": "Pre-elementary, Elementary School",
+            "value": "304"
+        }, {
+            "name": "Institute for Collaborative Education ",
+            "category": "Middle, High School",
+            "value": "492"
+        }]
+    }, {
+        "name": "Staten Island",
+        "children": [{
+            "name": "P.S. 005 Huguenot ",
+            "category": "Elementary School",
+            "value": "302"
+        }, {
+            "name": "Naples Street Elementary School ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "298"
+        }, {
+            "name": "P.S. 026 The Carteret School",
+            "category": "Pre-elementary, Elementary School",
+            "value": "264"
+        }, {
+            "name": "Concord High Schoo ",
+            "category": "High School",
+            "value": "172"
+        }]
+    }, {
+        "name": "Brooklyn",
+        "children": [{
+            "name": "P.S. 107 John W. Kimball",
+            "category": "Elementary School",
+            "value": "567"
+        }, {
+            "name": "The Maurice Sendak Community School ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "307"
+        }, {
+            "name": "P.S. 039 Henry Bristow ",
+            "category": "Elementary School",
+            "value": "410"
+        }, {
+            "name": "The Windsor Terrace School",
+            "category": "Elementary School",
+            "value": "514"
+        }, {
+            "name": "P.S. 372 -The Children's School ",
+            "category": "Elementary, Middle School",
+            "value": "212"
+        }, {
+            "name": "P.S. 319 ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "129"
+        }, {
+            "name": "Brooklyn Environmental Exploration School (BEES)",
+            "category": "Middle School",
+            "value": "95"
+        }, {
+            "name": "Satellite East Middle School ",
+            "category": "Middle School",
+            "value": "99"
+        }, {
+            "name": "P.S. 270 Johann DeKalb ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "108"
+        }, {
+            "name": "Bedford Stuyvesant Preparatory High School",
+            "category": "High School",
+            "value": "124"
+        }, {
+            "name": "Brownsville Collaborative Middle School",
+            "category": "Middle School",
+            "value": "108"
+        }, {
+            "name": "P.S. 321 William Penn ",
+            "category": "Elementary School",
+            "value": "1421"
+        }, {
+            "name": "Brownsville Academy High School ",
+            "category": "High School",
+            "value": "117"
+        }, {
+            "name": "P.S. 025 Eubie Blake School"",
+            "category": "Pre-elementary, Elementary School",
+            "value": "102"
+        }, {
+            "name": "P.S. 029 John M. Harrigan",
+            "category": "Pre-elementary, Elementary School",
+            "value": "927"
+        }, {
+            "name": "P.S. 058 The Carroll",
+            "category": "Pre-elementary, Elementary School",
+            "value": "933"
+        }, {
+            "name": "The Math & Science Exploratory School ",
+            "category": "Middle School",
+            "value": "528"
+        }, {
+            "name": "W.E.B. Dubois Academic High School",
+            "category": "High School",
+            "value": "132"
+        }, {
+            "name": "Middle School of Marketing and Legal Studies",
+            "category": "Middle School",
+            "value": "131"
+        }, {
+            "name": "M.S. 442 Carroll Gardens School for Innovation",
+            "category": "Middle School",
+            "value": "239"
+        }, {
+            "name": "East Flatbush Community Research School",
+            "category": "Middle School",
+            "value": "131"
+        }, {
+            "name": "Riverdale Avenue Middle School ",
+            "category": "Middle School",
+            "value": "127"
+        }, {
+            "name": "P.S. 028 The Warren Prep Academy ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "134"
+        }, {
+            "name": "Brooklyn School of Inquiry ",
+            "category": "Elementary, Middle School",
+            "value": "566"
+        }, {
+            "name": "Brooklyn Academy High School",
+            "category": "High School",
+            "value": "157"
+        }, {
+            "name": "The Brooklyn Academy of Global Finance",
+            "category": "High School",
+            "value": "135"
+        }, {
+            "name": "The Urban Assembly Unison School",
+            "category": "Middle School",
+            "value": "149"
+        }, {
+            "name": "P.S. 044 Marcus Garvey",
+            "category": "Pre-elementary, Elementary School",
+            "value": "139"
+        }, {
+            "name": "P.S. 305 Dr. Peter Ray",
+            "category": "Pre-elementary, Elementary School",
+            "value": "139"
+        }]
+    }, {
+        "name": "Bronx",
+        "children": [{
+            "name": "High School of American Studies at Lehman College",
+            "category": "High School",
+            "value": "400"
+        }, {
+            "name": "Holcombe L. Rucker School of Community Research",
+            "category": "High School",
+            "value": "149"
+        }, {
+            "name": "P.S. X088 - S. Silverstein Little Sparrow School",
+            "category": "Elementary School",
+            "value": "142"
+        }]
+    }, {
+        "name": "Queens",
+        "children": [{
+            "name": "The Academy for Excellence through the Arts ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "207"
+        }, {
+            "name": "P.S. 098 The Douglaston School ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "289"
+        }, {
+            "name": "P.S. 047 Chris Galas",
+            "category": "Pre-elementary, Middle School",
+            "value": "216"
+        }, {
+            "name": "P.S. 205 Alexander Graham Bell ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "325"
+        }, {
+            "name": "Academy for New Americans ",
+            "category": "Middle School",
+            "value": "101"
+        }, {
+            "name": "P.S. 101 School in the Gardens",
+            "category": "Pre-elementary, Middle School",
+            "value": "654"
+        }, {
+            "name": "P.S. 186 Castlewood ",
+            "category": "Pre-elementary, Elementary School",
+            "value": "383"
+        }]
+    }]
+}
