@@ -1,0 +1,20 @@
+{
+    "name": "Rich school Top 100",
+    "children": [{
+            "name": "Brooklyn",
+            "children": [{
+                "name":"Pre-elementary, Elementary School",
+                "category": "The Maurice Sendak Community School",
+                "value": "82"
+            }]
+        },
+ 	{
+       	    "name": "Manhattan",
+            "children": [{
+                    "name": "The Peck Slip School",
+                    "category": "Pre-elementary, Elementary School",
+                    "value": "123"
+                }]
+        }
+    ]
+}
